@@ -1,17 +1,21 @@
-/* Jumbotron Style */  
-.jumbotron {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100px;
-    margin-bottom: 2%;
-    background-color: lightgray;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
-/* card style */  
-.col-md-12 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 300px;
+ion-icon {
+    color:whitesmoke;
+    --ionicon-stroke-width: 80px;
+  }
+
+.green{
+  background-color: green;
+}
+.yellow{
+  background-color: yellow;
+}
+.orange{
+  background-color: orange;
+}
+.red{
+  background-color: red;
+}
+
+.purple{
+  background-color: purple;
 }
