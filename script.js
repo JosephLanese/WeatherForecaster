@@ -1,6 +1,6 @@
 var cityList =$("#city-list");
 var cities = [];
-var key = "";
+var key = "6f7f5a051f8f360eed2405d0de52f257";
 
 //Format for day
 function FormatDay(date){
